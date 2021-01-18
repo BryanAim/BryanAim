@@ -20,6 +20,16 @@
 </details>
 
 ---
+
+---
+<details>
+  <summary>:zap: Coding Stats</summary>
+
+  <img align="left" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/62c1667d-76a1-41a2-b9eb-582055ab0ad3.svg" height="400" />
+
+</details>
+
+---
 ### Lets Connect!
 <p align="center">
 <a href="https://codepen.io/isalebryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="isalebryan" height="20" width="20" /></a>
