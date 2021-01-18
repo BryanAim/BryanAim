@@ -12,7 +12,7 @@
 - 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw.
 ---
-<h3 align="center"> Lets Connect!<h3/>
+### Lets Connect!
 <p align="center">
 <a href="https://codepen.io/isalebryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="isalebryan" height="20" width="20" /></a>
 <a href="https://dev.to/bryanaim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bryanaim" height="20" width="20" /></a>
@@ -23,7 +23,7 @@
 
 <br/>
 
-<h3 align="center">Languages & Tools: <h3/>
+### Languages & Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,7 +45,7 @@
 <br />
 
 
-<h3 align="center"> 📕 My Blog posts <h3/>
+### 📕 My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [11 Things I Learnt from my #100DaysOfCode Challenge, and why you should take the challenge.](https://blog.isalebryan.me/11-things-i-learnt-from-my-100daysofcode-challenge-and-why-you-should-take-the-challenge-ckdojwp7v0011l9s17sv960mq)
 <!-- BLOG-POST-LIST:END -->
