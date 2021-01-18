@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm [Isale Bryan][website]</h1>
+<h1 align="center">Hello, I'm Isale Bryan- aka [Janja][website]</h1>
 <h3 align="center">Passionate Software Developer, Creative Artist, Mentor and Friend.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
 
