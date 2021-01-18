@@ -12,7 +12,7 @@
 - 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw.
 ---
-### Lets Connect!
+<h3 align="center"> Lets Connect!<h3/>
 <p align="center">
 <a href="https://codepen.io/isalebryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="isalebryan" height="20" width="20" /></a>
 <a href="https://dev.to/bryanaim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bryanaim" height="20" width="20" /></a>
@@ -23,7 +23,7 @@
 
 <br/>
 
-### Languages & Tools:
+<h3 align="center">Languages & Tools: <h3/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
