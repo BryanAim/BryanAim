@@ -60,10 +60,17 @@
 ---
 
 <details>
-  <summary>:zap: Coding Stats</summary>
+  <summary>:zap: Language Stats</summary>
 
   <img align="center" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/62c1667d-76a1-41a2-b9eb-582055ab0ad3.svg" height="400" />
 
 </details>
 
 ---
+
+<details>
+  <summary>:zap: Coding Activity</summary>
+
+  <img align="center" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/1710156a-c6e0-4b9f-b683-0a851daecaab.svg" height="400" />
+
+</details>
