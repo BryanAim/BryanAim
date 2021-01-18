@@ -45,7 +45,7 @@
 <br />
 
 
-### 📕 My Blog posts
+<h3 align="center"> 📕 My Blog posts <h3/>
 <!-- BLOG-POST-LIST:START -->
 - [11 Things I Learnt from my #100DaysOfCode Challenge, and why you should take the challenge.](https://blog.isalebryan.me/11-things-i-learnt-from-my-100daysofcode-challenge-and-why-you-should-take-the-challenge-ckdojwp7v0011l9s17sv960mq)
 <!-- BLOG-POST-LIST:END -->
