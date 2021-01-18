@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋, I'm Isale Bryan</h1>
+<h1 align="center">Hello, I'm Isale Bryan</h1>
 <h3 align="center">Passionate Software Developer, Mentor and Friend.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
 
