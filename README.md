@@ -10,25 +10,6 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw.
-
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Aim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bryanaim&show_icons=true&hide_border=true&count_private=true?theme=vue-dark" />
-
-</details>
-
----
-
----
-<details>
-  <summary>:zap: Coding Stats</summary>
-
-  <img align="left" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/62c1667d-76a1-41a2-b9eb-582055ab0ad3.svg" height="400" />
-
-</details>
-
 ---
 ### Lets Connect!
 <p align="center">
@@ -61,10 +42,28 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
 
 ### 📕 My Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [11 Things I Learnt from my #100DaysOfCode Challenge, and why you should take the challenge.](https://blog.isalebryan.me/11-things-i-learnt-from-my-100daysofcode-challenge-and-why-you-should-take-the-challenge-ckdojwp7v0011l9s17sv960mq)
 <!-- BLOG-POST-LIST:END -->
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Aim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bryanaim&show_icons=true&hide_border=true&count_private=true?theme=vue-dark" />
+
+</details>
+
+---
+
+<details>
+  <summary>:zap: Coding Stats</summary>
+
+  <img align="left" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/62c1667d-76a1-41a2-b9eb-582055ab0ad3.svg" height="400" />
+
+</details>
+
+---
