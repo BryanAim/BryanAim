@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Isale Bryan- aka Janja</h1>
+<h1 align="center">Hello, I'm Isale Bryan - aka Janja</h1>
 <h3 align="center">Passionate Software Developer, Creative Artist, Mentor and Friend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
@@ -44,6 +44,11 @@
 <br />
 <br />
 
+### 📕 My Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
 [website]: https://isalebryan.me
 [twitter]: https://twitter.com/isalebryan
 [hashnode]: https://hashnode.com/@isale
