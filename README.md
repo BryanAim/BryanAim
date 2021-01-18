@@ -48,8 +48,3 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-<!-- [website]: https://isalebryan.me
-[twitter]: https://twitter.com/isalebryan
-[hashnode]: https://hashnode.com/@isale
-[instagram]: https://www.instagram.com/bryanisale/ -->
