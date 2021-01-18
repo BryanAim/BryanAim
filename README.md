@@ -1,8 +1,7 @@
-<h1 align="center">Hello, I'm Isale Bryan</h1>
-<h3 align="center">Passionate Software Developer, Mentor and Friend.</h3>
+<h1 align="center">Hello, I'm [Isale Bryan][website]</h1>
+<h3 align="center">Passionate Software Developer, Creative Artist, Mentor and Friend.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
 
-- 🌐 Isale Bryan [https://isalebryan.me](https://isalebryan.me)
 
 - 🌱 I’m currently learning VueJs.
 - 👯 I’m looking to collaborate with other content creators.
@@ -41,3 +40,8 @@
 
 <br />
 <br />
+
+[website]: https://isalebryan.me
+[twitter]: https://twitter.com/isalebryan
+[hashnode]: https://hashnode.com/@isale
+[instagram]: https://www.instagram.com/bryanisale/
