@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I'm a Multimedia Artist.**
 
 
-
+### Lets Connect!
 <p align="center">
 <a href="https://codepen.io/isalebryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="isalebryan" height="20" width="20" /></a>
 <a href="https://dev.to/bryanaim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bryanaim" height="20" width="20" /></a>
