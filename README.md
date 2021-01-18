@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Isale Bryan - aka Janja</h1>
+<h1 align="center">Hello, I'm Isale Bryan - aka Aim</h1>
 <h3 align="center">Passionate Software Developer, Creative Artist, Mentor and Friend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
@@ -11,6 +11,15 @@
 - 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw.
 
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Aim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bryanaim&show_icons=true&hide_border=true" />
+
+</details>
+
+---
 ### Lets Connect!
 <p align="center">
 <a href="https://codepen.io/isalebryan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="isalebryan" height="20" width="20" /></a>
