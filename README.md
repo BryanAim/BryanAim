@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
 
 [![Website](https://img.shields.io/website?label=isalebryan.me&style=for-the-badge&url=https%3A%2F%2Fisalebryan.me)](https://isalebryan.me)
+[![Website](https://img.shields.io/website?label=blog.isalebryan.me&style=for-the-badge&url=https%3A%2F%2Fblog.isalebryan.me)](https://blog.isalebryan.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/isalebryan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fisalebryan&screen_name=isalebryan)
 
 - 🌱 I’m currently learning VueJs.
