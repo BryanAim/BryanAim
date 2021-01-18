@@ -5,9 +5,9 @@
 - 🌐 Isale Bryan [https://isalebryan.me](https://isalebryan.me)
 
 - 🌱 I’m currently learning VueJs.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2021 Goals: Grow My Network & Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to draw.
 
 ### Lets Connect!
 <p align="center">
