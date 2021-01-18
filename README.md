@@ -1,7 +1,9 @@
-<h1 align="center">Hello, I'm Isale Bryan- aka [Janja][website]</h1>
+<h1 align="center">Hello, I'm Isale Bryan- aka [Janja](https://isalebryan.me)</h1>
 <h3 align="center">Passionate Software Developer, Creative Artist, Mentor and Friend.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanaim" alt="bryanaim" /> </p>
 
+[![Website](https://img.shields.io/website?label=isalebryan.me&style=for-the-badge&url=https%3A%2F%2Fisalebryan.me)](https://isalebryan.me)
 
 - 🌱 I’m currently learning VueJs.
 - 👯 I’m looking to collaborate with other content creators.
@@ -45,4 +47,3 @@
 [twitter]: https://twitter.com/isalebryan
 [hashnode]: https://hashnode.com/@isale
 [instagram]: https://www.instagram.com/bryanisale/
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
