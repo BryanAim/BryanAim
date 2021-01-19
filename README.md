@@ -52,26 +52,26 @@
 
 ---
 <details>
-  <summary align="center">:zap: GitHub Stats</summary>
+	<summary align="center">:zap: GitHub Stats</summary>
 
-  <img align="center" alt="Aim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bryanaim&show_icons=true&hide_border=true&count_private=true?theme=vue-dark" />
-
-</details>
-
----
-
-<details>
-  <summary align="center">:zap: Language Stats</summary>
-
-  <img align="center" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/62c1667d-76a1-41a2-b9eb-582055ab0ad3.svg" height="400" />
+	<img align="center" alt="Aim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=bryanaim&show_icons=true&hide_border=true&count_private=true?theme=vue-dark" />
 
 </details>
 
 ---
 
 <details>
-  <summary align="center">:zap: Coding Activity</summary>
+	<summary align="center">:zap: Language Stats</summary>
 
-  <img align="center" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/1710156a-c6e0-4b9f-b683-0a851daecaab.svg" height="400" />
+	<img align="center" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/62c1667d-76a1-41a2-b9eb-582055ab0ad3.svg" height="400" />
+
+</details>
+
+---
+
+<details>
+	<summary align="center">:zap: Coding Activity</summary>
+
+	<img align="center" alt="Aim's Coding Stats" src="https://wakatime.com/share/@44b96ff2-85ee-4a0e-96e0-0f8252b00986/1710156a-c6e0-4b9f-b683-0a851daecaab.svg" height="400" />
 
 </details>
