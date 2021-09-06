@@ -54,7 +54,7 @@
 <details>
 	<summary align="center">:zap: GitHub Stats</summary>
 
-	<img align="center" alt="Aim's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=VictorZ94&layout=compact&show_icons=true&hide_border=true&count_private=true?theme=vue-dark" />
+	<img align="center" alt="Aim's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanaim&layout=compact&show_icons=true&hide_border=true&count_private=true?theme=vue-dark" />
 
 </details>
 
